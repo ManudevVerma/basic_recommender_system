@@ -3,3 +3,4 @@ streamlit
 scikit-learn
 requests
 pandas
+streamlit_extras
